@@ -39,12 +39,6 @@ const Hero = () => {
           <motion.h1 variants={textVariants}>
             Full Stack Web developer and UI designer
           </motion.h1>
-          <motion.img
-            variants={textVariants}
-            animate="scrollButton"
-            src="/scroll.png"
-            alt=""
-          />
         </motion.div>
       </div>
     </div>
